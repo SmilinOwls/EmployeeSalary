@@ -113,11 +113,11 @@ Some bonus functions to check the wrongly-formatted line in file **November2021.
 |Student ID| Workload |  Fulfilled-Work Percent | Subjective Grade |
 |----------|----------|-------------------------|------------------|
 |20120234  | an author of README.md, mainly responsible for most of aspects of project/solution (Source code, Release, Documents/img), build pattern like  `SingleTon`, `Factory`, `Prototype`, bonus function  ..  |       100%          |          10        |
-|20120205  |  draw class diagrams, write a detailed report, write test sample and debug, produce `Builder` pattern, check data valid ...        |               100%          |         10         |
+|20120205  |  draw class diagrams, write test sample and debug, produce `Builder` pattern, check data valid ...        |               100%          |         10         |
 
 ## 🎥 Demo Video 
 
-> Go On [Youtube]() To See Project Demo
+> Go On [Youtube Demo Link 1]() Or [Youtube Demo Link 2](https://youtu.be/Ta9ZkHOyFak) To See Project Demo
 
 ## 🤝 Contributing
 
