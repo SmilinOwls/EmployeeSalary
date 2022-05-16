@@ -39,6 +39,13 @@
 - Visual Studio Code 2019 or latest versions
 - Build, Compile & Run on `g++ -std=c++17 [..]` or above
 
+  ### Small Tip:
+    - Since VS 2017.3.5, there appears to be a drop down where you could specifically select C++17. 
+    - Available options are described here: 
+                        <p align='center'> <b> Under project > Properties > C/C++ > Language > C++ Language Standard) </b> </p>
+    - ISO C++17 or C++20 Standard. msvc command line option: `/std::c++17` or `/std::c++20`
+    
+
 ## Install
 
 - Open Terminal (MacOS) or CMD Shell (Windows), then go on command line described below:
@@ -62,11 +69,11 @@ open EmployeeSalary.exe
 ## Run tests
 
 1. Open file *November2021.txt* to make some mini tests on validating data with format
- * **Name valid:**
+ * **Name valid:** <p>                   </p>
       ![name](https://github.com/SmilinOwls/EmployeeSalary/blob/master/Documents/img/name.png)
- * **Payment valid:**
+ * **Payment valid:**  <p>                   </p>
       ![payment](https://github.com/SmilinOwls/EmployeeSalary/blob/master/Documents/img/payment.png)
- * **Total valid:**
+ * **Total valid:**  <p>                   </p>
       ![total](https://github.com/SmilinOwls/EmployeeSalary/blob/master/Documents/img/total.png)
 2. Run every each of four above tests by running *EmployeeSalary.exe* or by command line `open EmployeeSalary.exe`
 3. Wait a second, here are the results all printed out on console to notice about the error format on each specified line, in particular:
