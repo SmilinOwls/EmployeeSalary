@@ -112,8 +112,8 @@ Some bonus functions to check the wrongly-formatted line in file **November2021.
 
 |Student ID| Workload |  Fulfilled-Work Percent | Subjective Grade |
 |----------|----------|-------------------------|------------------|
-|20120234  | an author of README.md, mainly responsible for most of aspects of project/solution (Source code, Release, Documents/img), so on..  |       100%          |          9.5        |
-|20120205  |  draw class diagrams, write a detailed report, write test sample and debug, produce `Builder` pattern, make a bonus function ...        |               100%          |         9.5         |
+|20120234  | an author of README.md, mainly responsible for most of aspects of project/solution (Source code, Release, Documents/img), build pattern like  `SingleTon`, `Factory`, `Prototype`, bonus  ..  |       100%          |          9.5        |
+|20120205  |  draw class diagrams, write a detailed report, write test sample and debug, produce `Builder` pattern ...        |               100%          |         9.5         |
 
 ## 🎥 Demo Video 
 
