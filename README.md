@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# EmployeeSalary
-=======
 <h1 align="center">EMPLOYEE PAYMENT PROJECT 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-v1.0.0-blue.svg?cacheSeconds=2592000" />
