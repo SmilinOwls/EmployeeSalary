@@ -127,4 +127,3 @@ This project is [MIT](https://github.com/SmilinOwls/MockStudentDataGenerator/blo
 
 ***
 _A ton thanks to [**kefranabg**](https://github.com/kefranabg) for helping me foster a great interest in creating a powerful [readme.md](https://github.com/SmilinOwls/MockStudentDataGenerator/blob/master/README.md) ❤️_
->>>>>>> 87dba38d976062557c6d6d9d0190af20c7470b60
