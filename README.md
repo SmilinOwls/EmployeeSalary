@@ -63,18 +63,18 @@ open EmployeeSalary.exe
 
 1. Open file *November2021.txt* to make some mini tests on validating data with format
  * **Name valid:**
-      ![name]()
+      ![name](https://github.com/SmilinOwls/EmployeeSalary/blob/master/Documents/img/name.png)
  * **Payment valid:**
-      ![payment]()
+      ![payment](https://github.com/SmilinOwls/EmployeeSalary/blob/master/Documents/img/payment.png)
  * **Total valid:**
-      ![toal]()
+      ![total](https://github.com/SmilinOwls/EmployeeSalary/blob/master/Documents/img/total.png)
 2. Run every each of four above tests by running *EmployeeSalary.exe* or by command line `open EmployeeSalary.exe`
 3. Wait a second, here are the results all printed out on console to notice about the error format on each specified line, in particular:
       |     Item    | Specified Error Fomat Message |
       |-------------|-------------------------------|
-      | Name| ![name_error]()  |
-      |Payment| ![payment_error]() |
-      |Total | ![total_error]()|
+      | Name| ![name_error](https://github.com/SmilinOwls/EmployeeSalary/blob/master/Documents/img/name_error.png)  |
+      |Payment| ![payment_error](https://github.com/SmilinOwls/EmployeeSalary/blob/master/Documents/img/payment_error.png) |
+      |Total | ![total_error](https://github.com/SmilinOwls/EmployeeSalary/blob/master/Documents/img/total_error.png)|
       
 ## Author
 
@@ -99,7 +99,7 @@ Some bonus functions to check the wrongly-formatted line in file **November2021.
  
 > *Sample Ranked List of T.O.P Highly-Paid Employees:*
 
-<div align='center'> <img alt='ranking' src=""/> </div>
+<div align='center'> <img alt='rankings' src="https://github.com/SmilinOwls/EmployeeSalary/blob/master/Documents/img/rankings.png"/> </div>
 
 ## 💯 Expected Grades
 
