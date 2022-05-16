@@ -122,7 +122,7 @@ void EmployeeFileConvert::writeRakingFile(const string& file_path, const Omega& 
     int iRanked = 0;
     for (auto& x : omega.getEmployee())
     {
-        f << (x->name() + "," + x->getFullname() + "," + to_string(x->totalPayment()) + ",#" + to_string(++iRanked)) << endl;
+        f << (x->name() + "," + x->getFullname() + "," + to_string(x->totalPayment()) + "$,#" + to_string(++iRanked)) << endl;
     }
     
     f.close();
